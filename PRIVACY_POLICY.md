@@ -1,41 +1,41 @@
-# Zásady ochrany osobních údajů – WormMaze
+# Privacy Policy
 
-**Platnost od:** 7. listopadu 2026
+**Effective date:** November 7, 2026
 
-Tyto zásady ochrany osobních údajů popisují, jak aplikace WormMaze ("aplikace") nakládá s informacemi uživatelů.
+This privacy policy explains how the WormMaze app ("the app") handles user information.
 
-## Shrnutí
+## Summary
 
-WormMaze nesbírá, neukládá na server ani nesdílí žádné osobní údaje. Aplikace funguje zcela offline.
+WormMaze does not collect, store on a server, or share any personal data. The app works entirely offline.
 
-## Jaké údaje aplikace zpracovává
+## What data the app processes
 
-Aplikace lokálně na vašem zařízení ukládá pouze herní postup (aktuální úroveň, labyrint, skóre, odemčené úrovně a nastavení jazyka) v souboru v privátním úložišti aplikace. Tyto údaje:
+The app stores only your game progress (current level, maze, score, unlocked levels, and language setting) locally on your device, in the app's private storage. This data:
 
-- nikdy neopouští vaše zařízení,
-- nejsou odesílány vývojáři ani žádné třetí straně,
-- jsou smazány při odinstalování aplikace.
+- never leaves your device,
+- is never sent to the developer or to any third party,
+- is deleted when you uninstall the app.
 
-## Co aplikace nedělá
+## What the app does not do
 
-- Nepoužívá reklamní sítě ani reklamní identifikátory.
-- Nepoužívá analytické ani trackovací nástroje (např. Firebase Analytics, Google Analytics).
-- Nevyžaduje registraci, přihlášení ani účet.
-- Nepřistupuje k poloze, kontaktům, fotkám, mikrofonu ani kameře.
-- Nepřipojuje se k internetu kvůli herní funkčnosti (jediná výjimka je popsaná níže).
+- It does not use advertising networks or advertising identifiers.
+- It does not use analytics or tracking tools (e.g. Firebase Analytics, Google Analytics).
+- It does not require registration, sign-in, or an account.
+- It does not access your location, contacts, photos, microphone, or camera.
+- It does not connect to the internet for gameplay purposes (see the one exception below).
 
-## Odkazy na obchody s aplikacemi
+## Links to app stores
 
-Aplikace obsahuje v menu volitelné odkazy na stránky vývojáře v Google Play a App Store. Jejich otevření přesměruje na webový prohlížeč nebo danou obchodní aplikaci – to podléhá zásadám ochrany osobních údajů Google, resp. Apple, nikoliv této aplikace.
+The app's menu contains optional links to the developer's other apps on Google Play and the App Store. Opening them redirects to your web browser or the respective store app, which is governed by Google's or Apple's own privacy policy, not by this one.
 
-## Děti
+## Children
 
-Aplikace nesbírá žádné osobní údaje od žádného uživatele, včetně dětí.
+The app does not collect any personal data from any user, including children.
 
-## Změny těchto zásad
+## Changes to this policy
 
-Pokud se v budoucí verzi aplikace změní způsob zpracování údajů (např. přibude analytika nebo reklamy), budou tyto zásady aktualizovány a nová verze zveřejněna na stejné adrese.
+If a future version of the app changes how data is processed (for example, by adding analytics or ads), this policy will be updated and the new version published at the same address.
 
-## Kontakt
+## Contact
 
-Dotazy k těmto zásadám směrujte na: t.ganaj@gmail.com
+Questions about this policy can be sent to: t.ganaj@gmail.com
